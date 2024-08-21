@@ -8,7 +8,7 @@ const Footer = () => {
           <section className="relative text-gray-600 body-font custom-background-animation bg-fixed bg-cover bg-center bg-no-repeat">
 
     <footer>
-      <div className="container px-5 py-8 mx-auto flex flex-col  items-center justify-between">
+      <div className="container px-5 py-8 mx-auto flex flex-col xl:flex-row items-center justify-between">
         <div className="flex flex-col md:flex-row items-center">
           <span className="text-3xl sm:text-4xl md:text-5xl font-bold text-black">
             Hammad Portfolio
