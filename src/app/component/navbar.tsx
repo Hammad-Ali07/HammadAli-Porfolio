@@ -9,7 +9,7 @@ const Navbar = () => {
           <section className="relative text-gray-600 body-font custom-background-animation bg-fixed bg-cover bg-center bg-no-repeat">
 
         <header className="text-gray-600 body-font">
-  <div className="container mx-auto flex flex-wrap p-2 flex-col  xl-flex-row items-center">
+  <div className="container mx-auto flex flex-wrap p-2 flex-col  xl:flex-row items-center">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
       <span className=" mt-4 ml-0 text-4xl text-blue-800">Hammad Portfolio</span>
     </a>
